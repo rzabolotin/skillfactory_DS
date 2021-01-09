@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.csv
+*.xls
+.idea/*
+catboost_info
