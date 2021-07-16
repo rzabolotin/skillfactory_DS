@@ -2,4 +2,6 @@
 *.csv
 *.xls
 .idea/*
+*/.idea
 catboost_info
+*.model 
